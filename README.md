@@ -18,7 +18,7 @@
 
 ## 🧠 O que eu Faço
 
--   📊 Densolver sites
+-   📊 Desenvolver sites 
    
 
 ---
