@@ -1,6 +1,6 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Anderson Rodriguez
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 ** Graduando em Análse e desenvolvimento de sitemas | Desenvolvedor de Front End **  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
