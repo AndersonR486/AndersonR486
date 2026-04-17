@@ -2,10 +2,11 @@
 
 🚀 ** Graduando em Análse e desenvolvimento de sitemas | Desenvolvedor de Front End **  
 🇧🇷 Brazil
-
-
 ---
 
+## 🌐 Where to find me
+
+![LINKEDLN]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <p align="left">
   <a href="https://github.com/AndersonR486">
@@ -17,7 +18,7 @@
 
 ## 🧠 O que eu Faço
 
--   📊 Desenvolver sites 
+-   📊 Aprendendo a Desenvolver sites 
    
 
 ---
