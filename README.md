@@ -43,13 +43,13 @@
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Programa não se resume a resolver problmeas. <br>
+> Trata-se de construir soluções que sejam bem escaláveis, duradoras e que gerem valor real"_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
+
 🤝 Always open to collaborations, partnerships, and cool ideas
 
