@@ -4,11 +4,10 @@
 🇧🇷 Brazil
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontra 
 
-<a href="https://www.linkedin.com/in/anderson-rodriguez-2a6676195/"
-![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+ <a href="https://www.linkedin.com/in/anderson-rodriguez-2a6676195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  <a href="https://github.com/AndersonR486">
     <img src="https://img.shields.io/badge/GitHub-AndersonR486-181717?style=for-the-badge&logo=github" />
   </a>
