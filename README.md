@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/anderson-rodriguez-2a6676195/"
 ![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
- <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+ <a href="https://github.com/AndersonR486">
+    <img src="https://img.shields.io/badge/GitHub-AndersonR486-181717?style=for-the-badge&logo=github" />
   </a>
 <p align="left">
   <a href="https://github.com/AndersonR486">
