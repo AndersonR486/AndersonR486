@@ -6,7 +6,6 @@
 
 ---
 
-## 🌐 Onde me encontra 
 
 <p align="left">
   <a href="https://github.com/AndersonR486">
