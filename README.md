@@ -6,7 +6,7 @@
 
 ## 🌐 Where to find me
 
-![LINKEDLN]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <p align="left">
   <a href="https://github.com/AndersonR486">
