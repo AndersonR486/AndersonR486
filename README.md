@@ -1,6 +1,6 @@
 # Olá 👋,sou  Anderson Rodriguez
 
-🚀 ** Graduando em Análse e desenvolvimento de sitemas | Desenvolvedor de Front End **  
+🚀 ** Graduando em Análise e desenvolvimento de sitemas | Desenvolvedor de Front End **  
 🇧🇷 Brazil
 ---
 
